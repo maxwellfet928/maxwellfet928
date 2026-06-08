@@ -159,29 +159,6 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxwellfet928&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1021&title_color=2563eb&icon_color=7c3aed" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwellfet928&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1021&title_color=2563eb&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=maxwellfet928&theme=tokyonight&hide_border=true&background=0b1021&ring=2563eb&fire=7c3aed&currStreakLabel=2563eb" alt="streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maxwellfet928&theme=tokyo-night&bg_color=0b1021&color=2563eb&line=7c3aed&point=ffffff&hide_border=true&area=true" alt="activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=maxwellfet928&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
-
-</div>
-
----
-
 ## 💬 A meme to close on
 
 <div align="center">
