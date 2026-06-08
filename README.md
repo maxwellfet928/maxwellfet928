@@ -20,30 +20,41 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me — One Engineer Orchestrating a Fleet
 
-```python
-class Maxwell:
-    def __init__(self):
-        self.location   = "United States 🇺🇸"
-        self.role       = "Senior Full-Stack & AI-Native Engineer"
-        self.experience = "12+ years in production software"
-        self.focus      = ["Claude Code workflows", "Full-Stack web", "DevOps / Cloud"]
-        self.stack      = {
-            "backend":  ["Django", "FastAPI", "Python", "Node.js"],
-            "frontend": ["React", "Next.js", "TypeScript", "JavaScript"],
-            "cloud":    ["AWS", "Azure", "Docker", "Kubernetes", "Terraform"],
-            "ai":       ["Claude Code", "MCP", "Agentic pipelines"],
-        }
+> Senior Full-Stack & AI-Native Engineer in the **United States 🇺🇸** with **12+ years** in production software.
+> I direct **Claude Code sub-agents** like a tech lead directs a team — fanning them out across the entire stack while I own the architecture.
 
-    def philosophy(self):
-        return "Ship fast, test relentlessly, and let agents do the toil."
+```mermaid
+flowchart TD
+    M["👨‍💻 Maxwell<br/>12+ yrs · Architect & Reviewer"] --> CC{{"✦ Claude Code<br/>Orchestrator"}}
+
+    CC --> A1["🤖 Backend Agent"]
+    CC --> A2["🤖 Frontend Agent"]
+    CC --> A3["🤖 DevOps Agent"]
+    CC --> A4["🤖 Test & Review Agent"]
+
+    A1 --> B["🐍 Django · FastAPI<br/>Python · PostgreSQL · Redis"]
+    A2 --> F["⚛️ React · Next.js<br/>TypeScript · Tailwind"]
+    A3 --> D["☁️ AWS · Azure<br/>Docker · K8s · Terraform"]
+    A4 --> T["✅ pytest · Playwright<br/>CI gates · code review"]
+
+    B --> SHIP["🚀 Production"]
+    F --> SHIP
+    D --> SHIP
+    T --> SHIP
+
+    style M fill:#0b1021,color:#fff,stroke:#2563eb,stroke-width:2px
+    style CC fill:#D97757,color:#fff,stroke:#fff
+    style A1 fill:#7c3aed,color:#fff
+    style A2 fill:#7c3aed,color:#fff
+    style A3 fill:#7c3aed,color:#fff
+    style A4 fill:#7c3aed,color:#fff
+    style SHIP fill:#16a34a,color:#fff,stroke:#fff,stroke-width:2px
 ```
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="90" alt="dev"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220" alt="coding cat meme"/>
+<i>Sub-agents do the parallel toil across the stack — I stay focused on design, trade-offs, and the diff.</i>
 </div>
 
 ---
@@ -171,27 +182,9 @@ flowchart LR
 
 ---
 
-## 🐍 Watch the contribution snake eat my commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxwellfet928/maxwellfet928/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxwellfet928/maxwellfet928/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/maxwellfet928/maxwellfet928/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> 💡 The snake renders once the included GitHub Action runs (Actions → **Generate Snake** → Run workflow), then refreshes daily.
-
----
-
 ## 💬 A meme to close on
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" alt="" />
 
 > *"It works on my machine."*  —  so I shipped the machine. 🐳
 
