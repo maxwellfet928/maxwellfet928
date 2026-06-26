@@ -1,8 +1,3 @@
-<!-- ========================= HEADER BANNER ========================= -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1021,50:2563eb,100:7c3aed&height=220&section=header&text=Maxwell%20%E2%80%94%20Full%20Stack%20%2B%20AI-Native%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=12%2B%20years%20shipping%20software%20%E2%80%A2%20Claude%20Code%20power%20user%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18" alt="header"/>
-</a>
-
 <!-- ========================= TYPING INTRO ========================= -->
 <div align="center">
 
